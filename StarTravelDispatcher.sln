@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{50173EA1-8ACB-41E2-8290-5C5FF9901366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{C3B8EAC1-B4B2-4EE1-8785-715BAFCDD6AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTravelDispatcherApp", "StarTravelDispatcherApp\StarTravelDispatcherApp.csproj", "{395A1117-0854-480F-AA99-711326BDF58D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{50173EA1-8ACB-41E2-8290-5C5FF9901366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50173EA1-8ACB-41E2-8290-5C5FF9901366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50173EA1-8ACB-41E2-8290-5C5FF9901366}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3B8EAC1-B4B2-4EE1-8785-715BAFCDD6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3B8EAC1-B4B2-4EE1-8785-715BAFCDD6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3B8EAC1-B4B2-4EE1-8785-715BAFCDD6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3B8EAC1-B4B2-4EE1-8785-715BAFCDD6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395A1117-0854-480F-AA99-711326BDF58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395A1117-0854-480F-AA99-711326BDF58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395A1117-0854-480F-AA99-711326BDF58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395A1117-0854-480F-AA99-711326BDF58D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

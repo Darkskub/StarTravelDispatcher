@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="StarTravelDispatcherApp.Views.AddFlightControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StarTravelDispatcherApp.Views"
+             Height="Auto" Width="Auto">
+    <StackPanel Margin="10">
+        <TextBlock Text="Выбери корабль:"/>
+        <ComboBox x:Name="ShipComboBox" DisplayMemberPath="Name" SelectedValuePath="Id" Margin="0 0 0 10"/>
+
+        <TextBlock Text="Выбери звездные системы (в порядке):"/>
+        <ListBox x:Name="StarSystemsListBox"
+                 DisplayMemberPath="Name"
+                 SelectionMode="Extended"
+                 Height="100"
+                 Margin="0 0 0 10"/>
+
+        <TextBlock Text="Дата рейса:"/>
+        <DatePicker x:Name="FlightDatePicker" Margin="0 0 0 10"/>
+
+        <Button Content="Добавить рейс" Click="AddFlight_Click" Width="150"/>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DataBase\\DataBase.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
