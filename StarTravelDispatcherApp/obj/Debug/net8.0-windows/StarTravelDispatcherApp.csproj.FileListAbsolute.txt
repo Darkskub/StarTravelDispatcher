@@ -31,3 +31,5 @@ C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDi
 C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDispatcherApp\obj\Debug\net8.0-windows\Views\AddPassengerDialog.g.cs
 C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDispatcherApp\obj\Debug\net8.0-windows\Views\AddToFlightControl.g.cs
 C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDispatcherApp\obj\Debug\net8.0-windows\Views\AddFlightControl.baml
+C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDispatcherApp\obj\Debug\net8.0-windows\Views\FlightPassengersControl.g.cs
+C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDispatcherApp\obj\Debug\net8.0-windows\Views\FlightPassengersControl.baml

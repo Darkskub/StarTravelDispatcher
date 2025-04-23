@@ -11,7 +11,7 @@
         <ListBox x:Name="StarSystemsListBox"
                  DisplayMemberPath="Name"
                  SelectionMode="Extended"
-                 Height="100"
+                 Height="70"
                  Margin="0 0 0 10"/>
 
         <TextBlock Text="Дата рейса:"/>

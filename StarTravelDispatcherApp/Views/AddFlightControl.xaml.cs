@@ -12,11 +12,12 @@ namespace StarTravelDispatcherApp.Views
     {
         private readonly HttpClient _httpClient;
 
+        public event EventHandler? FlightAdded;
+
         public AddFlightControl(HttpClient httpClient)
         {
             InitializeComponent();
             _httpClient = httpClient;
-
             LoadShipsAndStars();
         }
 
@@ -63,9 +64,14 @@ namespace StarTravelDispatcherApp.Views
 
             var response = await _httpClient.PostAsJsonAsync("/api/flights", dto);
             if (response.IsSuccessStatusCode)
+            {
                 MessageBox.Show("Рейс добавлен!");
+                FlightAdded?.Invoke(this, EventArgs.Empty);
+            }
             else
+            {
                 MessageBox.Show("Ошибка при добавлении рейса.");
+            }
         }
     }
 }

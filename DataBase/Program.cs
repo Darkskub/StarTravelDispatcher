@@ -137,10 +137,6 @@ static async Task<IResult> RemovePassengersFromFlight(
     return Results.Ok();
 }
 
-
-
-
-
 app.MapGet("/api/flights", [Authorize] async (StarTravelContext db) =>
     await db.Flights
         .Include(f => f.Ship)
@@ -222,6 +218,17 @@ app.MapGet("/api/flights/{id:int}/passengers", [Authorize] async (int id, StarTr
         .Where(fp => fp.FlightId == id)
         .Select(fp => new { fp.Passenger.Id, fp.Passenger.FullName })
         .ToListAsync();
+});
+
+app.MapDelete("/api/flights/{id:int}", [Authorize] async (int id, StarTravelContext db) =>
+{
+    var flight = await db.Flights.FindAsync(id);
+    if (flight == null)
+        return Results.NotFound();
+
+    db.Flights.Remove(flight);
+    await db.SaveChangesAsync();
+    return Results.Ok();
 });
 
 
