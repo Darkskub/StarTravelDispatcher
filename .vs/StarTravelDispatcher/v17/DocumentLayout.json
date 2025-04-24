@@ -3,16 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C4A28725-3499-4AAB-B272-85BF27ECD236}|StarStravel.Test\\StarStravel.Test.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\starstravel.test\\starstravel.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4A28725-3499-4AAB-B272-85BF27ECD236}|StarStravel.Test\\StarStravel.Test.csproj|solutionrelative:starstravel.test\\starstravel.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\LoginEndpointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StarTravel.Tests\\LoginEndpointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\startraveldispatcherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\startraveldispatcherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\allpassengerswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\allpassengerswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\models\\shipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\models\\shipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\models\\starsystemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\models\\starsystemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\allpassengerswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\allpassengerswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,6 +67,65 @@
     {
       "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\starmapcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\starmapcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\flightpassengerscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\flightpassengerscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\addpassengerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\addpassengerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\addtoflightcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\addtoflightcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\addstardialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\addstardialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\views\\addflightcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\views\\addflightcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\models\\flightviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\models\\flightviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\startraveldispatcherapp\\models\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395A1117-0854-480F-AA99-711326BDF58D}|StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj|solutionrelative:startraveldispatcherapp\\models\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\startravelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\startravelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\starsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\starsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\starsystemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\starsystemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\passengerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\AppData\\Local\\Temp\\rxpzi2n3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,27 +148,23 @@
       "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|c:\\users\\darkskub\\desktop\\university\\github\\c#\\startraveldispatcher\\database\\models\\startravelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50173EA1-8ACB-41E2-8290-5C5FF9901366}|DataBase\\DataBase.csproj|solutionrelative:database\\models\\startravelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\App\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\AppData\\Local\\Temp\\t3p4ljms..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\App\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\AddFlightEndpointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StarTravel.Tests\\AddFlightEndpointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\GetFlightsEndpointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StarTravel.Tests\\GetFlightsEndpointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotForGithub\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,11 +174,394 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarStravel.Test",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarStravel.Test\\StarStravel.Test.csproj",
+              "RelativeDocumentMoniker": "StarStravel.Test\\StarStravel.Test.csproj",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarStravel.Test\\StarStravel.Test.csproj",
+              "RelativeToolTip": "StarStravel.Test\\StarStravel.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T13:34:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\LoginEndpointTests.cs",
+              "RelativeDocumentMoniker": "StarTravel.Tests\\LoginEndpointTests.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\LoginEndpointTests.cs",
+              "RelativeToolTip": "StarTravel.Tests\\LoginEndpointTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:13:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarTravelDispatcherApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj",
+              "RelativeToolTip": "StarTravelDispatcherApp\\StarTravelDispatcherApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T19:39:51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAwwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-24T13:26:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAE0HAAAAAAAAAAAwwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-24T13:25:54.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddFlightEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\AddFlightEndpointTests.cs",
+              "RelativeDocumentMoniker": "StarTravel.Tests\\AddFlightEndpointTests.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\AddFlightEndpointTests.cs",
+              "RelativeToolTip": "StarTravel.Tests\\AddFlightEndpointTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:13:19.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAwwAEBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:18:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetFlightsEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\GetFlightsEndpointTests.cs",
+              "RelativeDocumentMoniker": "StarTravel.Tests\\GetFlightsEndpointTests.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravel.Tests\\GetFlightsEndpointTests.cs",
+              "RelativeToolTip": "StarTravel.Tests\\GetFlightsEndpointTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:10:39.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllPassengersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:37:28.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Program.cs",
+              "RelativeDocumentMoniker": "DataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Program.cs",
+              "RelativeToolTip": "DataBase\\Program.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAIBJwPEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:50:52.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StarSystemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\StarSystemDto.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Models\\StarSystemDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\StarSystemDto.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Models\\StarSystemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:45:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllPassengersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\AllPassengersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T12:37:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\FlightDto.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Models\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\FlightDto.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Models\\FlightDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:07:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShipDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\ShipDto.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Models\\ShipDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\ShipDto.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Models\\ShipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:07:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightPassengersControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\FlightPassengersControl.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\FlightPassengersControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\FlightPassengersControl.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\FlightPassengersControl.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:08:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StarMapControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\StarMapControl.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\StarMapControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\StarMapControl.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\StarMapControl.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:09:06.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddFlightControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddFlightControl.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\AddFlightControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddFlightControl.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\AddFlightControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:09:13.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml",
+              "RelativeToolTip": "StarTravelDispatcherApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T18:18:37.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddStarDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddStarDialog.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\AddStarDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddStarDialog.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\AddStarDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:10:05.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:12:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\LoginWindow.xaml",
+              "RelativeToolTip": "StarTravelDispatcherApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T12:12:16.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddPassengerDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddPassengerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\AddPassengerDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddPassengerDialog.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\AddPassengerDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:08:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddToFlightControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddToFlightControl.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Views\\AddToFlightControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Views\\AddToFlightControl.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Views\\AddToFlightControl.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwDIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:08:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlightViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\FlightViewDto.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Models\\FlightViewDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\FlightViewDto.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Models\\FlightViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:07:57.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StarSystemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\StarSystemDto.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\StarSystemDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\StarSystemDto.cs",
+              "RelativeToolTip": "DataBase\\Models\\StarSystemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:05:18.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StarSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\StarSystem.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\StarSystem.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\StarSystem.cs",
+              "RelativeToolTip": "DataBase\\Models\\StarSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:05:16.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\LoginDto.cs",
+              "RelativeToolTip": "DataBase\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:05:15.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PassengerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\PassengerDto.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\Models\\PassengerDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\Models\\PassengerDto.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\Models\\PassengerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:45:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PassengerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\PassengerDto.cs",
+              "RelativeDocumentMoniker": "DataBase\\Models\\PassengerDto.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\PassengerDto.cs",
+              "RelativeToolTip": "DataBase\\Models\\PassengerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:45:18.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "StarTravelDispatcherApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:37:51.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\App.xaml",
               "RelativeDocumentMoniker": "StarTravelDispatcherApp\\App.xaml",
@@ -89,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "StarTravelDispatcherApp\\App.xaml.cs",
@@ -102,32 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml*",
-              "RelativeToolTip": "StarTravelDispatcherApp\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-22T18:18:37.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "StarTravelDispatcherApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\StarTravelDispatcherApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "StarTravelDispatcherApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwDAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:18:37.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 34,
               "Title": "FlightPath.cs",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\FlightPath.cs",
               "RelativeDocumentMoniker": "DataBase\\Models\\FlightPath.cs",
@@ -140,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 35,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\Flight.cs",
               "RelativeDocumentMoniker": "DataBase\\Models\\Flight.cs",
@@ -153,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 36,
               "Title": "Ship.cs",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\Ship.cs",
               "RelativeDocumentMoniker": "DataBase\\Models\\Ship.cs",
@@ -166,20 +625,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "StarTravelContext.cs",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\StarTravelContext.cs",
               "RelativeDocumentMoniker": "DataBase\\Models\\StarTravelContext.cs",
               "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\StarTravelContext.cs",
               "RelativeToolTip": "DataBase\\Models\\StarTravelContext.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswFAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T17:52:55.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 32,
               "Title": "FlightDto.cs",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Models\\FlightDto.cs",
               "RelativeDocumentMoniker": "DataBase\\Models\\FlightDto.cs",
@@ -192,56 +651,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 33,
               "Title": "DataBase.csproj",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\DataBase.csproj",
               "RelativeDocumentMoniker": "DataBase\\DataBase.csproj",
               "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\DataBase.csproj",
               "RelativeToolTip": "DataBase\\DataBase.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-22T17:23:35.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Program.cs",
-              "RelativeDocumentMoniker": "DataBase\\Program.cs",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\DataBase\\Program.cs*",
-              "RelativeToolTip": "DataBase\\Program.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T17:50:52.746Z",
-              "EditorCaption": ""
+              "DocumentIndex": 31,
+              "Title": "rxpzi2n3..sql",
+              "DocumentMoniker": "C:\\Users\\Darkskub\\AppData\\Local\\Temp\\rxpzi2n3..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\rxpzi2n3..sql",
+              "ToolTip": "C:\\Users\\Darkskub\\AppData\\Local\\Temp\\rxpzi2n3..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\rxpzi2n3..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-23T19:33:03.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.g.cs",
-              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "RelativeDocumentMoniker": "App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "RelativeToolTip": "App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T17:41:02.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SQLQuery1.sql",
+              "DocumentIndex": 38,
+              "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "NotForGithub\\SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql",
-              "RelativeToolTip": "NotForGithub\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-04-22T16:35:13.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 37,
               "Title": "t3p4ljms..sql",
               "DocumentMoniker": "C:\\Users\\Darkskub\\AppData\\Local\\Temp\\t3p4ljms..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\t3p4ljms..sql",
@@ -249,30 +694,6 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\t3p4ljms..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-04-22T17:45:41.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.g.cs",
-              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "RelativeDocumentMoniker": "App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "RelativeToolTip": "App\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T17:41:02.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SQLQuery1.sql",
-              "DocumentMoniker": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "NotForGithub\\SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\Darkskub\\Desktop\\University\\Github\\C#\\StarTravelDispatcher\\NotForGithub\\SQLQuery1.sql",
-              "RelativeToolTip": "NotForGithub\\SQLQuery1.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-22T16:35:13.998Z"
             }
           ]
         }

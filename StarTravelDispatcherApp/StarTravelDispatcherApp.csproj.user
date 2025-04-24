@@ -17,6 +17,9 @@
     <Compile Update="Views\AddToFlightControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\AllPassengersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\FlightPassengersControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

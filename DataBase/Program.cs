@@ -44,7 +44,6 @@ var app = builder.Build();
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Endpoint добавления рейса
 app.MapPost("/api/flights", [Authorize] async (FlightDto dto, StarTravelContext db) =>
 {
     var flight = new Flight
@@ -54,7 +53,7 @@ app.MapPost("/api/flights", [Authorize] async (FlightDto dto, StarTravelContext 
     };
 
     db.Flights.Add(flight);
-    await db.SaveChangesAsync(); // Сохраняем рейс и получаем его ID
+    await db.SaveChangesAsync();
 
     for (int i = 0; i < dto.StarSystemIds.Count; i++)
     {
@@ -72,9 +71,9 @@ app.MapPost("/api/flights", [Authorize] async (FlightDto dto, StarTravelContext 
 
 app.MapPost("/api/login", async (LoginDto dto, StarTravelContext db) =>
 {
-    Console.WriteLine($"[DEBUG] Username: {dto.Username}");
+/*    Console.WriteLine($"[DEBUG] Username: {dto.Username}");
     Console.WriteLine($"[DEBUG] Password: {dto.Password}");
-    Console.WriteLine($"[DEBUG] Hash: {ComputeHash(dto.Password)}");
+    Console.WriteLine($"[DEBUG] Hash: {ComputeHash(dto.Password)}");*/
 
     var user = await db.Users.FirstOrDefaultAsync(u => u.Username == dto.Username);
     if (user == null) return Results.Unauthorized();
@@ -121,7 +120,6 @@ static async Task<IResult> RemovePassengersFromFlight(
     HttpContext context,
     [FromServices] StarTravelContext db)
 {
-    // ВНИМАНИЕ: passengerIds НЕ в параметрах метода
     var passengerIds = await context.Request.ReadFromJsonAsync<List<int>>();
 
     if (passengerIds == null || !passengerIds.Any())
@@ -231,5 +229,17 @@ app.MapDelete("/api/flights/{id:int}", [Authorize] async (int id, StarTravelCont
     return Results.Ok();
 });
 
+app.MapGet("/api/passengers/sql", [Authorize] async (StarTravelContext db) =>
+{
+    var result = await db.Passengers
+        .FromSqlRaw("SELECT * FROM Passengers")
+        .Select(p => new { p.Id, p.FullName })
+        .ToListAsync();
+
+    return Results.Ok(result);
+});
 
 app.Run();
+
+//test
+public partial class Program { }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTravelDispatcherApp", "StarTravelDispatcherApp\StarTravelDispatcherApp.csproj", "{395A1117-0854-480F-AA99-711326BDF58D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarStravel.Test", "StarStravel.Test\StarStravel.Test.csproj", "{C4A28725-3499-4AAB-B272-85BF27ECD236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{395A1117-0854-480F-AA99-711326BDF58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{395A1117-0854-480F-AA99-711326BDF58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{395A1117-0854-480F-AA99-711326BDF58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A28725-3499-4AAB-B272-85BF27ECD236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A28725-3499-4AAB-B272-85BF27ECD236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A28725-3499-4AAB-B272-85BF27ECD236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A28725-3499-4AAB-B272-85BF27ECD236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

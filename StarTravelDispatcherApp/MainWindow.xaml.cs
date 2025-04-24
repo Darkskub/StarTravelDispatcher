@@ -271,5 +271,12 @@ namespace StarTravelDispatcherApp
         {
             await LoadFlights();
         }
+
+        private void ShowAllPassengers_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new AllPassengersWindow(_httpClient);
+            window.Show();
+        }
+
     }
 }

@@ -48,7 +48,7 @@ namespace StarTravelDispatcherApp.Views
                 ids.Add(p.Id);
 
             var response = await _httpClient.PostAsJsonAsync($"/api/flights/{_flight.Id}/passengers", ids);
-            MessageBox.Show(response.IsSuccessStatusCode ? "Добавлено!" : "Ошибка добавления");
+            MessageBox.Show(response.IsSuccessStatusCode ? "Добавлено." : "Ошибка добавления");
         }
 
         private async void DeletePassenger_Click(object sender, RoutedEventArgs e)

@@ -27,6 +27,7 @@
             <Button Content="Добавить пассажира" Click="AddPassenger_Click"/>
             <Button Content="Удалить пассажира" Click="DeletePassenger_Click"/>
             <Button Content="Обновить рейсы" Click="RefreshFlights_Click"/>
+            <Button Content="Вывести всех пассажиров" Click="ShowAllPassengers_Click"/>
         </StackPanel>
 
         <!-- Список полетов -->

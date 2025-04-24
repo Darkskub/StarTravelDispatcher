@@ -65,7 +65,7 @@ namespace StarTravelDispatcherApp.Views
             var response = await _httpClient.PostAsJsonAsync("/api/flights", dto);
             if (response.IsSuccessStatusCode)
             {
-                MessageBox.Show("Рейс добавлен!");
+                MessageBox.Show("Рейс добавлен.");
                 FlightAdded?.Invoke(this, EventArgs.Empty);
             }
             else

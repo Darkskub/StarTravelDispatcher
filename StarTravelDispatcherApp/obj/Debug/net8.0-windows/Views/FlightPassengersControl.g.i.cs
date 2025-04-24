@@ -61,7 +61,7 @@ namespace StarTravelDispatcherApp.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/StarTravelDispatcherApp;component/views/flightpassengerscontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/StarTravelDispatcherApp;V1.0.0.0;component/views/flightpassengerscontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\FlightPassengersControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

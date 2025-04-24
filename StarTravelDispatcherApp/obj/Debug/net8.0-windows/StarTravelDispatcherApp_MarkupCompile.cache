@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Darkskub\Desktop\University\Github\C#\StarTravelDispatcher\StarTravelDispatcherApp\App.xaml
-8756187766
+96798855
 
-161819650216
+171589625677
 198-211836927
-LoginWindow.xaml;MainWindow.xaml;Views\AddFlightControl.xaml;Views\AddPassengerDialog.xaml;Views\AddStarDialog.xaml;Views\AddToFlightControl.xaml;Views\FlightPassengersControl.xaml;Views\StarMapControl.xaml;
+LoginWindow.xaml;MainWindow.xaml;Views\AddFlightControl.xaml;Views\AddPassengerDialog.xaml;Views\AddStarDialog.xaml;Views\AddToFlightControl.xaml;Views\AllPassengersWindow.xaml;Views\FlightPassengersControl.xaml;Views\StarMapControl.xaml;
 
 False
 

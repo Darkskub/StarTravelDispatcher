@@ -1,5 +1,5 @@
 ﻿using System.Windows;
-using StarTravelDispatcherApp.Models; // обязательно подключить DTO
+using StarTravelDispatcherApp.Models;
 
 namespace StarTravelDispatcherApp.Views
 {
